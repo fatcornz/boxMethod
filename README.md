@@ -1,9 +1,3 @@
-# boxMethod voltage acquisition
-
-Implementation based on GitHub `main` commit
-`deda8de9ed3809da274f10d25dd8779613b13609` (November 6, 2026).
-Development branch: `INA229-output-voltage-sensor`.
-
 ## Modules
 
 - `spi_master.vhd`: 24/32-bit transactions using one FPGA clock domain,
